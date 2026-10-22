@@ -50,4 +50,10 @@ The Art Institute of Chicago provides data through its API in JSON format. We us
 
 
 ## 7. Gaps
+One of the main gaps in our project is determining whether our three datasets can be successfully integrated. Although the Artworks, Agents, and Exhibitions datasets contain common identifiers, we have not yet verified how many records actually match across them. We initially downloaded 200 records from each dataset, but these records were selected from the first two pages of each API endpoint rather than through random sampling. As a result, our current sample may not fully represent the museum's collection or contain enough related records for meaningful analysis.
 
+Another gap is understanding the completeness and accuracy of the information provided. Some records may have missing artist information, creation dates, or exhibition details. We will need to examine these missing values and determine how they might affect our research questions and results.
+
+Additionally, we need to investigate how to process certain variables, such as artwork_ids and artist_ids, which contain multiple identifiers within a single field. These will require additional cleaning before we can properly join the datasets.
+
+As we continue, our group will need to decide whether to expand our sample, refine our research questions, and identify the most appropriate methods for cleaning, integrating, and analyzing the data.
