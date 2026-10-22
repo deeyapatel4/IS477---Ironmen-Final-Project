@@ -17,11 +17,11 @@
 ## 4. Datasets
 
 ### Dataset 1
-- Name:
-- Source:
-- Link:
-- Description:
-- Key variables:
+- Name: Art Institute Of Chicago
+- Source: Github
+- Link: https://github.com/art-institute-of-chicago/api-data/blob/master/getting-started/someArtworks.csv
+- Description: This specific dataset lists 300 of the Chicago Art Institute’s top artworks in CSV format. The API is powered by a data hub Links to an external site., a system built to collect public information from a number of different internal systems.
+- Key variables: id, title, main_reference_number, department_title, artist_title
 - Connection to other datasets:
 
 ### Dataset 2
