@@ -24,17 +24,17 @@ How does the representation of different artists and art styles change across ex
 - Connection to other datasets:
 
 ### Dataset 2
-- Name:
-- Source:
-- Link:
-- Description:
-- Key variables:
+- Name: Art Institute Of Chicago
+- Source: Github
+- Link: https://github.com/art-institute-of-chicago/api-data/tree/main/json/agents 
+- Description: Contains artist names, birth and death dates, biographical details, and other available artist metadata.
+- Key variables: 
 - Connection to other datasets:
 
 ### Dataset 3
-- Name:
+- Name: 
 - Source:
-- Link:
+- Link: https://github.com/art-institute-of-chicago/api-data/tree/main/json/agents
 - Description:
 - Key variables:
 - Connection to other datasets:
