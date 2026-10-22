@@ -32,10 +32,10 @@ How does the representation of different artists and art styles change across ex
 - Connection to other datasets:
 
 ### Dataset 3
-- Name: 
-- Source:
-- Link: https://github.com/art-institute-of-chicago/api-data/tree/main/json/agents
-- Description:
+- Name: Art Institute of Chicago
+- Source: Github
+- Link: https://github.com/art-institute-of-chicago/api-data/tree/main/json/exhibitions
+- Description: Contains exhibition titles, dates, descriptions, and references to artworks and artists associated with each exhibition.
 - Key variables:
 - Connection to other datasets:
 
