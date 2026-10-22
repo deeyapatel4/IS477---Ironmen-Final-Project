@@ -5,7 +5,7 @@
 
 
 ## 2. Team
-- Member 1: Jodi Domingo — [Responsibilities]
+- Member 1: Jodi Domingo — Used Python to download 200 records from each of the Artworks, Agents, and Exhibitions datasets, converted the JSON data into CSV format, and uploaded the files to the GitHub repository's data folder. Updated the dataset information in ProjectPlan.md and added the Gaps section to address potential challenges with missing data, sample size, and dataset integration.
 - Member 2: Rachel Tseng — [Responsibilities]
 - Member 3: Deeya Patel — [Responsibilities]
 - Member 4: [Name] — [Responsibilities]
