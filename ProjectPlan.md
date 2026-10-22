@@ -39,6 +39,9 @@ How does the representation of different artists and art styles change across ex
 - Key variables: id, title, short_description, aic_start_at, aic_end_at, status, artwork_ids, artist_ids
 - Connection to other datasets: This dataset can be connected to Artworks using artwork_ids and to Agents using artist_ids. These relationships could help us examine which artists and artworks are associated with different exhibitions.
 
+### Data Preparation: 
+The Art Institute of Chicago provides data through its API in JSON format. We used Python to retrieve 200 records from each of the three datasets and converted them into CSV files using pandas. These files are stored in our group's GitHub repository to make the data easier to access, inspect, and analyze. In later project stages, we plan to clean the datasets and examine how they can be integrated using artwork and artist identifiers.
+
 ## 5. Timeline
 
 
