@@ -43,7 +43,19 @@ How does the representation of different artists and art styles change across ex
 The Art Institute of Chicago provides data through its API in JSON format. We used Python to retrieve 200 records from each of the three datasets and converted them into CSV files using pandas. These files are stored in our group's GitHub repository to make the data easier to access, inspect, and analyze. In later project stages, we plan to clean the datasets and examine how they can be integrated using artwork and artist identifiers.
 
 ## 5. Timeline
+Our team will complete the project in stages, focusing on data quality, integration, analysis, and reproducibility. We will track progress and individual contributions through GitHub.
 
+| Timeline | Task | Description | Responsible |
+|---|---|---|---|
+| Oct. 19–25 | Data Collection | Collect and organize the three datasets. Document sources, licensing, and data acquisition methods. | Jodi |
+| Oct. 26–Nov. 1 | Data Quality Assessment | Evaluate accuracy, completeness, timeliness, and consistency. Check missing values and dataset overlap. | Deeya, Rachel |
+| Nov. 2–8 | Data Cleaning | Standardize formats, address missing values, and prepare artist and artwork IDs for matching. | Rachel |
+| Nov. 9–15 | Data Integration | Join Artworks, Agents, and Exhibitions using shared identifiers. Validate matches and resolve inconsistencies. | Deeya, Jodi |
+| Nov. 16–22 | Analysis | Reassess integrated data quality, analyze artist and art-style representation across exhibitions, and create visualizations. | Deeya, Rachel |
+| Nov. 23–29 | Automation & Documentation | Build a reproducible workflow, document dependencies and data provenance, and create metadata and a data dictionary. | Jodi, Rachel |
+| Nov. 30–Dec. 6 | Final Review | Complete the report, test the workflow, verify GitHub contributions, and prepare the final release. | All Members |
+
+We will review progress weekly and adjust the timeline if needed. If the initial datasets have insufficient matching records, we will expand our sample before proceeding with analysis.
 
 ## 6. Constraints
 
