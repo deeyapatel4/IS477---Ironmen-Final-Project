@@ -2,7 +2,11 @@
 # IS 477 Course Project Plan
 
 ## 1. Overview
+Our project aims to examine how the representation of artists and art styles varies across exhibitions at the Art Institute of Chicago. By analyzing the relationships between artworks, artists, and exhibitions, we hope to identify patterns in which artists and artistic styles are featured.
 
+To accomplish this, we will use three datasets from the Art Institute of Chicago's Open Data API: Artworks, Agents, and Exhibitions. We will first assess data quality, identify missing or inconsistent information, and clean the datasets. Next, we will integrate them using shared artist and artwork identifiers. Once integrated, we will analyze patterns across exhibitions and create visualizations to present our findings.
+
+Our goal is to develop a reproducible data curation workflow while gaining insight into how artistic representation differs across exhibitions.
 
 ## 2. Team
 - Member 1: Jodi Domingo — Used Python to download 200 records from each of the Artworks, Agents, and Exhibitions datasets, converted the JSON data into CSV format, and uploaded the files to the GitHub repository's data folder. Updated the dataset information in ProjectPlan.md and added the Gaps section to address potential challenges with missing data, sample size, and dataset integration.
