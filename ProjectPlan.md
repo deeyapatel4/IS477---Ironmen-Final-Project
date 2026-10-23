@@ -62,11 +62,7 @@ Our team will complete the project in stages, focusing on data quality, integrat
 We will review progress weekly and adjust the timeline if needed. If the initial datasets have insufficient matching records, we will expand our sample before proceeding with analysis.
 
 ## 6. Constraints
-Our primary constraint is the limited sample size of 200 records per dataset, which may not fully represent the Art Institute of Chicago's collection or provide enough overlapping records for integration.
-
-Additionally, missing artist information, inconsistent date formats, and multi-valued identifiers may complicate data cleaning and matching. Since the datasets have different structures, we will need to verify relationships between artworks, artists, and exhibitions before analysis.
-
-Time constraints may also limit how much data we can process and validate. We will prioritize accurate integration and reproducible methods over the size of our dataset.
+Our primary constraint is the limited sample size of 200 records per dataset, which may not fully represent the Art Institute of Chicago's collection or provide enough overlapping records for integration. Many "artwork_ids" listed in exhibitions.csv are not found in artworks.csv, which highlight this issue. Additionally, since the original type of file for our data was JSON and we had to convert them into CSVs, there could be issues in regard to data loss or missing values. Nested objects are especially vulnerable. Some other challenges to note are missing data and exhibits sharing the exact same “gallery_id”. Some “agents” do not have “alt_titles” and some “artworks” don’t have “date_start” or “date_end”. Since the datasets have different structures, we will need to verify relationships between artworks, artists, and exhibitions before analysis. Time constraints may also limit how much data we can process and validate. We will prioritize accurate integration and reproducible methods over the size of our dataset.
 
 
 ## 7. Gaps
