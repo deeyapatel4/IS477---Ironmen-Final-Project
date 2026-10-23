@@ -10,9 +10,9 @@ Our goal is to develop a reproducible data curation workflow while gaining insig
 
 ## 2. Team
 - Member 1: Jodi Domingo — Used Python to download 200 records from each of the Artworks, Agents, and Exhibitions datasets, converted the JSON data into CSV format, and uploaded the files to the GitHub repository's data folder. Updated the dataset information in ProjectPlan.md and added the Gaps section to address potential challenges with missing data, sample size, and dataset integration.
-- Member 2: Rachel Tseng — [Responsibilities]
-- Member 3: Deeya Patel — [Responsibilities]
-- Member 4: Saint Luan — [Responsibilities]
+- Member 2: Rachel Tseng — Overview section, outlining the research question and goal, datasets, and workflow. Helped establish focus on the overall project and what to analyze in the datasets.
+- Member 3: Deeya Patel — Project timeline, organized tasks into stages and descriptions for each. Stages include data collection, quality assessment, cleaning, integration, analysis, automation, and final review. Assigned sections and responsibilities to each group member. 
+- Member 4: Saint Luan — Constraints section, identified challenges and risks relating to the data. Included limitations that could affect the accuracy and scope of the analysis. 
 
 ## 3. Research or Business Questions
 How does the representation of different artists and art styles change across exhibitions?
