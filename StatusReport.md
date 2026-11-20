@@ -103,5 +103,5 @@ Contributed to the original project plan by developing the project timeline, org
 
 ### Saint Luan
 
-Contributed to the initial project planning and data collection responsibilities, including organizing the datasets needed for analysis. Helped establish the planned approach for examining artistic trends and identifying potential challenges with dataset compatibility. Will focus on data cleaning, classification standardization, and analysis during the remaining stages.
+Contributed to the initial project planning and data collection responsibilities, including organizing the datasets needed for analysis. Helped establish the planned approach for examining artistic trends and identifying potential challenges with dataset compatibility. Also worked on the constraints for the Plan submission. Will focus on data cleaning, classification standardization, and analysis during the remaining stages.
 
