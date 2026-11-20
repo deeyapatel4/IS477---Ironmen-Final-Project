@@ -93,10 +93,6 @@ To address this, we have revised the project timeline and identified the remaini
 
 Contributed to the initial data collection by developing a Python script to retrieve records from the Art Institute of Chicago's API and converting the datasets into CSV format. Helped organize the data files in the GitHub repository and contributed to the original project plan by documenting dataset descriptions and potential limitations.
 
-### Rachel Tseng
-
-Contributed to the project planning process by helping establish the data preparation and workflow requirements. Participated in identifying potential challenges involving missing values, inconsistent classification terminology, and dataset integration. Will focus on data cleaning, classification standardization, and workflow documentation during the remaining stages.
-
 ### Deeya Patel
 
 Contributed to the original project plan by developing the project timeline, organizing tasks, and assigning responsibilities across the group. For the status report milestone, created and ran a Python script to begin assessing data quality across the three datasets. Also helped revise the timeline and identify next steps based on instructor feedback.
