@@ -75,9 +75,9 @@ To address this, we will examine identifier overlap before joining the datasets.
 
 ### Missing Values and Data Formatting
 
-The three datasets contain different types of information, and some fields may contain missing values or multiple identifiers. These differences could complicate cleaning and integration.
+The three different datasets contain different types of information, and some fields may contain missing values or multiple identifiers. These differences could complicate cleaning and integration and violate the completeness dimensions of data quality.
 
-We have begun addressing this challenge through an initial data quality assessment that identifies missing values, duplicate records, and available columns. Our next step is to review these findings and determine which fields require additional cleaning or restructuring.
+We have begun addressing this through an initial data quality assessment that identifies missing values, duplicate records, and available columns. Our next step is to review these findings and determine which fields require additional cleaning or restructuring.
 
 ### Project Timeline
 
