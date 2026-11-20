@@ -6,7 +6,7 @@
 
 ## 1. Changes to Project Plan 
 
-Since submitting our original project plan, we received feedback regarding the consistency of artwork classification labels across datasets. Our instructor pointed out that artworks may be described using different terminology, such as "1950s," "mid-century modern," or "abstract." These labels can refer to different characteristics, including time periods, artistic movements, and styles, which could make comparisons difficult.
+Since submitting our original project plan, we received feedback from the teacher assistants about the consistency of artwork classification labels across datasets. Our instructor pointed out that artworks may be described using different terminology, such as "1950s," "mid-century modern," or "abstract." These labels can refer to different characteristics, including time periods, artistic movements, and styles, which could make comparisons difficult. We want to make sure that the semantic accuracy and consistency throughout artworks are correct.
 
 To address this feedback, we plan to incorporate classification standardization into our data cleaning process. We will review the available style and classification fields, identify inconsistencies, and develop a working vocabulary or mapping dictionary. This will help us standardize comparable terminology while maintaining distinctions between different types of classifications.
 
@@ -15,7 +15,7 @@ We have also adjusted our project timeline to reflect our current progress. Whil
 
 ## 2. Task Updates and Progress
 
-The group has made progress on the project, completing the initial data collection stage and beginning the data quality assessment. As of November 19, the group has not yet started data cleaning, integration, or analysis.
+Our group, so far, has completed the initial data collection stage and beginning to start on the data quality assessment stage. As of November 19, we haven't started data cleaning, integration, or analysis.
 
 For **data collection**, Jodi and Saint were responsible for gathering and organizing the three datasets from the Art Institute of Chicago's Open Data API: Artworks, Agents, and Exhibitions. Python was used to download 200 records from each dataset and convert the original JSON data into CSV format using pandas. The datasets were uploaded to the GitHub repository, along with the Python script used to retrieve them.
 
@@ -92,6 +92,10 @@ To address this, we have revised the project timeline and identified the remaini
 ### Jodi Domingo
 
 Contributed to the initial data collection by developing a Python script to retrieve records from the Art Institute of Chicago's API and converting the datasets into CSV format. Helped organize the data files in the GitHub repository and contributed to the original project plan by documenting dataset descriptions and potential limitations.
+
+### Rachel Tseng
+
+Contributed to project planning by helping establish the data preparation and workflow requirements. Identified challenges found in the project process of certain missing values, inconsistent terminology for classification, and dataset integration. Will focus in the next stages of data cleaning, classification standardization, and workflow documentation.
 
 ### Deeya Patel
 
