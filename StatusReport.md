@@ -13,10 +13,6 @@ To address this feedback, we plan to incorporate classification standardization 
 We have also adjusted our project timeline to reflect our current progress. While data collection has been completed and an initial data quality assessment has begun, the remaining cleaning, integration, analysis, and automation tasks are still pending. Our overall research question and project goals remain unchanged.
 
 
-
-## 2. Task Updates and Progress
-
-
 ## 2. Task Updates and Progress
 
 The group has made progress on the project, completing the initial data collection stage and beginning the data quality assessment. As of November 19, the group has not yet started data cleaning, integration, or analysis.
