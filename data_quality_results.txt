@@ -1,0 +1,63 @@
+
+===== Artworks =====
+Rows: 200
+Columns: 108
+Duplicate rows: 4
+
+Missing values:
+boost_rank                      200
+fiscal_year_deaccession         200
+nomisma_id                      200
+on_loan_display                 200
+thumbnail                       200
+color                           200
+longitude                       199
+latitude                        199
+latlon                          199
+suggest_autocomplete_boosted    197
+dtype: int64
+
+Column names:
+['id', 'api_model', 'api_link', 'is_boosted', 'title', 'alt_titles', 'main_reference_number', 'has_not_been_viewed_much', 'boost_rank', 'date_start', 'date_end', 'date_display', 'date_qualifier_title', 'date_qualifier_id', 'artist_display', 'place_of_origin', 'description', 'short_description', 'dimensions', 'dimensions_detail', 'medium_display', 'inscriptions', 'credit_line', 'catalogue_display', 'publication_history', 'exhibition_history', 'provenance_text', 'edition', 'publishing_verification_level', 'internal_department_id', 'fiscal_year', 'fiscal_year_deaccession', 'is_public_domain', 'is_zoomable', 'max_zoom_window_size', 'copyright_notice', 'has_multimedia_resources', 'has_educational_resources', 'has_advanced_imaging', 'colorfulness', 'latitude', 'longitude', 'latlon', 'is_on_view', 'on_loan_display', 'gallery_title', 'gallery_id', 'nomisma_id', 'artwork_type_title', 'artwork_type_id', 'department_title', 'department_id', 'artist_id', 'artist_title', 'alt_artist_ids', 'artist_ids', 'artist_titles', 'category_ids', 'category_titles', 'term_titles', 'style_id', 'style_title', 'alt_style_ids', 'style_ids', 'style_titles', 'classification_id', 'classification_title', 'alt_classification_ids', 'classification_ids', 'classification_titles', 'subject_id', 'alt_subject_ids', 'subject_ids', 'subject_titles', 'material_id', 'alt_material_ids', 'material_ids', 'material_titles', 'technique_id', 'alt_technique_ids', 'technique_ids', 'technique_titles', 'theme_titles', 'image_id', 'alt_image_ids', 'document_ids', 'sound_ids', 'video_ids', 'text_ids', 'section_ids', 'section_titles', 'site_ids', 'suggest_autocomplete_all', 'source_updated_at', 'updated_at', 'timestamp', 'thumbnail.lqip', 'thumbnail.width', 'thumbnail.height', 'thumbnail.alt_text', 'color.h', 'color.l', 'color.s', 'color.percentage', 'color.population', 'color', 'suggest_autocomplete_boosted', 'thumbnail']
+
+===== Agents =====
+Rows: 200
+Columns: 24
+Duplicate rows: 0
+
+Missing values:
+ulan_id                                200
+vocab_ids                              200
+wikidata_id                            200
+description                            200
+suggest_autocomplete_boosted.input     194
+suggest_autocomplete_boosted.weight    194
+death_date                              83
+birth_date                              57
+alt_titles                              38
+suggest_autocomplete_all.weight         19
+dtype: int64
+
+Column names:
+['id', 'api_model', 'api_link', 'title', 'sort_title', 'alt_titles', 'is_artist', 'agent_type_id', 'agent_type_title', 'birth_date', 'death_date', 'description', 'ulan_id', 'vocab_ids', 'wikidata_id', 'archives', 'source_updated_at', 'updated_at', 'timestamp', 'suggest_autocomplete_all.input', 'suggest_autocomplete_all.weight', 'suggest_autocomplete_all.contexts.groupings', 'suggest_autocomplete_boosted.input', 'suggest_autocomplete_boosted.weight']
+
+===== Exhibitions =====
+Rows: 200
+Columns: 26
+Duplicate rows: 0
+
+Missing values:
+image_url            200
+web_url              200
+short_description    200
+image_id             129
+gallery_title         51
+gallery_id            51
+position               0
+id                     0
+api_model              0
+api_link               0
+dtype: int64
+
+Column names:
+['id', 'api_model', 'api_link', 'title', 'is_featured', 'position', 'short_description', 'web_url', 'image_url', 'status', 'aic_start_at', 'aic_end_at', 'gallery_id', 'gallery_title', 'artwork_ids', 'artwork_titles', 'artist_ids', 'site_ids', 'image_id', 'alt_image_ids', 'document_ids', 'source_updated_at', 'updated_at', 'timestamp', 'suggest_autocomplete_all.input', 'suggest_autocomplete_all.contexts.groupings']
