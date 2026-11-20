@@ -38,7 +38,7 @@ The group is currently in the **analysis stage**, led by Deeya and Saint. This i
 
 ### Jodi Domingo
 
-[Write your contribution summary here.]
+Contributed to data collection and integration by using Python to download 200 records each from the Artworks, Agents, and Exhibitions datasets, converting the JSON data into CSV files, and uploading them to GitHub. Worked with Deeya to identify connections between the datasets using shared identifiers. Also updated the dataset descriptions and gaps section of the Project Plan and wrote the Task Updates and Progress section of the Status Report.
 
 ### Rachel Tseng
 
